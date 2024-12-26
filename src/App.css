@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: 'Press Start 2P', system-ui, -apple-system, sans-serif;
+	font-family: var(--game-font);
 }
 
 .App {

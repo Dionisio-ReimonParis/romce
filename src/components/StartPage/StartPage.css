@@ -71,7 +71,7 @@
 	transition: all 0.3s;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	font-family: 'Press Start 2P', cursive;
+	font-family: var(--game-font);
 	text-shadow: 0 0 5px #0ff;
 	box-shadow: 0 0 10px #0ff;
 }

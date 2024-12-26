@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { FaGamepad, FaDesktop, FaPlaystation, FaXbox, FaSteam, FaTwitch } from 'react-icons/fa';
 import './MainPage.css';
+import '../../fonts.css';
 
 const MainPage = () => {
 	// Add useEffect for viewport meta tag and orientation handling
