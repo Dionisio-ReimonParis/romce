@@ -56,7 +56,7 @@ const StartPage = ({ onStart }) => {
 		<div className={`start-overlay ${isStarting ? 'starting' : ''}`}>
 			<div className="scan-lines"></div>
 			<div className="start-content">
-				<h1 className="neon-text">Welcome to RomCE</h1>
+				<h1 className="neon-text">Meet the Gamer Boy</h1>
 				<button className="start-button" onClick={handleStart}>
 					Press Start
 				</button>

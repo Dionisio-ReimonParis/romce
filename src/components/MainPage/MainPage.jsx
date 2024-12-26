@@ -160,7 +160,7 @@ const MainPage = () => {
 					</div>
 				))}
 			</div>
-			<h1 className="neon-text" onClick={handleClick}>RomCE</h1>
+			<h1 className="neon-text" onClick={handleClick}>Romce</h1>
 
 			<div className="side-decoration right">
 				<FaTwitch className="side-icon" />
