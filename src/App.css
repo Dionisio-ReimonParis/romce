@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	font-family: 'Press Start 2P', system-ui, -apple-system, sans-serif;
+}
+
+.App {
+	text-align: center;
+	min-height: 100vh;
+	background-color: #0a0a0a;
+	position: relative;
+	overflow: hidden;
+}
+
